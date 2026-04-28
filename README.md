@@ -51,3 +51,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/shaheerbinshafqat/Finpilot.pk.git
 cd Finpilot.pk
+
+
+## 🔗 Live Demo
+[https://psx-cc.vercel.app]
